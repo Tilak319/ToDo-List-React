@@ -1,0 +1,28 @@
+.list {
+    color:white;
+    width: 350px;
+    background-color:rebeccapurple;
+    height: 60px;
+    margin: auto;
+    border-radius: 5px;
+    
+
+  }
+  .list p {
+    margin: 10px;
+    text-align: left;
+    position: relative;
+    
+}
+
+  
+  .list p span {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+    
+  }
+  .faicons {
+    margin: 0;
+    font-size: 25px;
+  }
